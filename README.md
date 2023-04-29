@@ -1,6 +1,7 @@
-# Data Analysis On Food Prices 2022 In Pakistan
-
-For data analysis, We used ETL(Extract, Transform and Load), Data Wrangling and Support Vector Machines (SVM) which is a supervised machine learning algorithm that can be used for classification or regression problems.
+# Predictive Model for Food Prices in 2022 using Support Vector Machine Algorithm
+- This project focuses on analyzing food prices in 2022 using various data science techniques and the Support Vector Machine (SVM) algorithm.
+- The project follows standard data science steps such as data collection, data cleaning, data exploration, and data visualization to extract useful insights from the data.
+- The SVM algorithm is then used to build a predictive model to forecast food prices for the year 2022 in Pakistan.
 
 # Dataset
 The dataset that we used is from kaggle (https://www.kaggle.com/datasets/amaanfaheem/pakistan-food-prices-2022?resource=download).
